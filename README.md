@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayedsadat344
-- 👀 I’m interested in softwaKafka & Hadoop
+- 👀 I’m interested in Web development
 - 💞️ I’m looking to collaborate on Angular, Spring Boot, and Laravel
 - 📫 How to reach me ? through email: sayedsadat344@gmail.com
 
