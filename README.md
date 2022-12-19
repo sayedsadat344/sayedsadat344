@@ -2,7 +2,7 @@
 
 
  
--  🎓 I'm a Computer Science Master (South Asian University, New Delhi)
+-  🎓 I'm a Computer Science Master and Professional Software Developer
 -  🤖 I work with ROSHAN LTDC (Afghanistan's leading telecom operator)
 -  📫  Born in Afghanistan   <img  src="https://img.icons8.com/color/50/000000/afghanistan-flag-circle.png" width="17"/>
 
