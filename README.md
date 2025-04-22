@@ -10,21 +10,10 @@
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedsadat344&label=Profile%20views&color=0e75b6&style=flat" alt="sayedsadat344" /> </p>
 
-   <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedsadat344" alt="sayedsadat344" /></a> </p> -->
 
 
 
-  <hr width = "90%">
   
-  
-<!--    🚀 Contact Me: 
-      <p align="left">
-      <a href="https://dev.to/sayedsadat344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-   generator/master/src/images/icons/Social/devto.svg" alt="sayedsadat344" height="30" width="40" /></a>
-      <a href="https://twitter.com/@sahasadat3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sahasadat3" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayed-hussainullah-sadat-160800182/" target="blank"><img align="center"           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayed-hussainullah-sadat-160800182/" height="30" width="40" /></a>
-      <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8985718/sayed-hussainullah-sadat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8985718/sayed-hussainullah-sadat" height="30" width="40" /></a>
-      <a href="https://medium.com/https://medium.com/@sayedsadat344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sayedsadat344" height="30" width="40" /></a>
-</p> -->
 
   <hr width = "90%">
 🚀 My Public Repositories:
