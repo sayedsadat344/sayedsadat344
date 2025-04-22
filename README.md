@@ -10,7 +10,7 @@
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedsadat344&label=Profile%20views&color=0e75b6&style=flat" alt="sayedsadat344" /> </p>
 
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedsadat344" alt="sayedsadat344" /></a> </p>
+   <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedsadat344" alt="sayedsadat344" /></a> </p> -->
 
 
 
