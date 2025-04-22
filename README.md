@@ -65,15 +65,6 @@
 
 
 
-## How to reach me :
-
-
-[![Gmail Badge](https://img.shields.io/badge/-sayedsadat344@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.sayedsadat344@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-SayedHussainullahSadat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayed-hussainullah-sadat-160800182/)](https://www.linkedin.com/in/sayed-hussainullah-sadat-160800182/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/sayedsadat344)](https://github.com/sayedsadat344)
-[![Twitter Badge](https://img.shields.io/badge/-@SAHASADAT3?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=SADAT.json "Follow on Twitter")
-
- <hr width = "90%">
 
 
 ## ⚡ Languages & Frameworks & Tools & Abilities
