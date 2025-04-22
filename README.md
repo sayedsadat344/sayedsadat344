@@ -4,11 +4,7 @@
  
 -  🎓 I'm a Computer Science Master and Professional Software Developer
 -  🤖 I work with ROSHAN LTDC (Afghanistan's leading telecom operator)
--  📫  Born in Afghanistan   <img  src="https://img.icons8.com/color/50/000000/afghanistan-flag-circle.png" width="17"/>
-
-   <hr width = "90%">
-
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedsadat344&label=Profile%20views&color=0e75b6&style=flat" alt="sayedsadat344" /> </p>
+-  📫  Born in Afghanistan  
 
 
 
